@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopChart</string>
+    <string name="empty_list">empty list</string>
+    <string name="an_error_occurred">an error occured, please try again</string>
+</resources>
